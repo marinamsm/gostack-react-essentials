@@ -1,4 +1,4 @@
-# React.js Concepts
+# React.js Financial Application
 
 A financial web application that lists income and outcome as well as imports .csv files with these data. It needs its [backend](https://github.com/marinamsm/gostack-typeorm-upload) to work.
 
