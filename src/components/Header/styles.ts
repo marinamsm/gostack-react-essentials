@@ -31,6 +31,14 @@ export const Container = styled.div<ContainerProps>`
           opacity: 0.6;
         }
       }
+
+      a.active {
+        text-decoration: underline #ff872c;
+      }
+
+      a.inactive {
+        text-decoration: none;
+      }
     }
   }
 `;
